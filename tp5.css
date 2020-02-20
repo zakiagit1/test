@@ -1,0 +1,43 @@
+body{
+    background:url(fond_ecran.jpg );
+  background-size: cover;
+     
+    }
+    section{
+        text-align: end;
+    }
+    
+    #info{
+        display: flex;
+        justify-content: flex-end;
+     
+        margin-top: 100px;
+       
+        
+    }
+    
+
+#genre {
+    display: flex;
+    justify-content: flex-end;
+   
+}
+
+#bottom {
+    text-align:end;
+    margin: 4px 2px;
+   
+   
+  }
+  #choix {
+    display: flex;
+    justify-content: flex-end;
+  }
+  img {
+      border: double 5px ;
+      border-color: blue;    
+  }
+button{
+    border-radius:10px 10px 10px 10px ;
+}
+
